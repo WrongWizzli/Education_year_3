@@ -1,0 +1,3 @@
+/home/dmitrii/Desktop/cg/task_1/320_Vartanov_A1/template1_cpp/CMakeFiles/rebuild_cache.dir
+/home/dmitrii/Desktop/cg/task_1/320_Vartanov_A1/template1_cpp/CMakeFiles/edit_cache.dir
+/home/dmitrii/Desktop/cg/task_1/320_Vartanov_A1/template1_cpp/CMakeFiles/main.exe.dir

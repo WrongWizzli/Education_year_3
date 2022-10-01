@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitrii/Desktop/template2_cpp/Image.h
+string
+-
+
+/home/dmitrii/Desktop/template2_cpp/Player.cpp
+Player.h
+/home/dmitrii/Desktop/template2_cpp/Player.h
+iostream
+-
+
+/home/dmitrii/Desktop/template2_cpp/Player.h
+Image.h
+/home/dmitrii/Desktop/template2_cpp/Image.h
+tiles.h
+/home/dmitrii/Desktop/template2_cpp/tiles.h
+
+/home/dmitrii/Desktop/template2_cpp/tiles.h
+Image.h
+/home/dmitrii/Desktop/template2_cpp/Image.h
+vector
+-
+

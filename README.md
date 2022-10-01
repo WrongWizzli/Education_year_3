@@ -1,2 +1,3 @@
 # Education_year_3
-All educational code written in bachelor year 3
+
+Most influential code written in year 3 bachelor education

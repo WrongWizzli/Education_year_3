@@ -1,0 +1,3 @@
+/home/dmitrii/Desktop/cg/task_1/template2_cpp/CMakeFiles/rebuild_cache.dir
+/home/dmitrii/Desktop/cg/task_1/template2_cpp/CMakeFiles/edit_cache.dir
+/home/dmitrii/Desktop/cg/task_1/template2_cpp/CMakeFiles/main.dir

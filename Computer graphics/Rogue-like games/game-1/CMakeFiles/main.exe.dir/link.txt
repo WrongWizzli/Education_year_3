@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.exe.dir/glad.c.o CMakeFiles/main.exe.dir/Image.cpp.o CMakeFiles/main.exe.dir/Player.cpp.o CMakeFiles/main.exe.dir/main.cpp.o CMakeFiles/main.exe.dir/Texture.cpp.o  -o bin/main.exe  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lrt -ldl 
